@@ -1,10 +1,10 @@
 import './App.css';
-import CustomDialog from './components.js/CustomDialog';
+import RootContainer from './components.js/RootContainer';
 
 function App() {
   return (
     <>
-      <CustomDialog />      
+      <RootContainer />
     </>
   );
 }
